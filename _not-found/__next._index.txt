@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[7121,[],""]
 3:I[4581,[],""]
-:HL["/nononontikar/_next/static/css/fa11b0faa156f7c8.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/nononontikar/_next/static/css/fa11b0faa156f7c8.css","precedence":"next"}]],["$","html",null,{"lang":"ru","className":"__variable_7e1d29 h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"X5Hd_weeJ0J_xDXp9WhtT"}
+:HL["/nononontikar/_next/static/css/781430380bc52df5.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/nononontikar/_next/static/css/781430380bc52df5.css","precedence":"next"}]],["$","html",null,{"lang":"ru","className":"__variable_7e1d29 h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7gAT1qAf_OUzzGM9u6qmD"}
