@@ -1,3 +1,3 @@
 :HL["/nononontikar/_next/static/media/8ff554284d8b79a9-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/nononontikar/_next/static/css/8453aa832b53c766.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"2_BJjEX_J48Pl5cz0pmhP"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"c7QS6O9n-cyUQ96XJzY_p"}
